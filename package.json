@@ -1,0 +1,16 @@
+{
+  "name": "shenia-events-api",
+  "version": "1.0.0",
+  "description": "UK tech events scraper and API for Shenia platform",
+  "main": "api.js",
+  "scripts": {
+    "scrape": "node scraper.js && node format-events.js",
+    "format": "node format-events.js",
+    "start": "node api.js",
+    "scrape-and-start": "node scraper.js && node format-events.js && node api.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
