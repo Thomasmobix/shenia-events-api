@@ -21,6 +21,23 @@ const COUNTY_MAP = {
   brighton: "East Sussex", southampton: "Hampshire", portsmouth: "Hampshire",
 };
 
+function cleanPostcode(postcode) {
+  if (!postcode) return "";
+  // Remove any HTML entities or garbage characters
+  const cleaned = postcode
+    .replace(/U003C.*$/i, "")  // Remove U003CP and similar HTML entity artifacts
+    .replace(/&#x[0-9A-Fa-f]+;/g, "")
+    .replace(/&[a-zA-Z]+;/g, "")
+    .trim();
+  // Validate it looks like a UK postcode
+  if (cleaned.match(/^[A-Z]{1,2}\d{1,2}[A-Z]?\s*\d[A-Z]{2}$/i)) {
+    return cleaned.toUpperCase();
+  }
+  // If it doesn't look like a valid postcode after cleaning, return empty
+  if (cleaned.includes("U00") || cleaned.length > 10) return "";
+  return cleaned;
+}
+
 function getCounty(city) {
   if (!city) return "";
   const key = Object.keys(COUNTY_MAP).find(k => city.toLowerCase().includes(k));
@@ -64,7 +81,7 @@ function formatEvent(rawEvent, index) {
       first_line: rawEvent.address || "",
       town_city: city,
       county,
-      postcode_zip: rawEvent.postcode || "",
+      postcode_zip: cleanPostcode(rawEvent.postcode || ""),
     },
     event_categories: [{
       id: 1,
