@@ -365,7 +365,12 @@ async function run() {
   };
 
   // Save to file
-  fs.writeFileSync(CONFIG.outputFile, JSON.stringify(output, null, 2));
+  // Save raw output for formatter
+const rawFile = path.join(__dirname, "data", "events_raw.json");
+fs.writeFileSync(rawFile, JSON.stringify(output, null, 2));
+
+// Also save directly as events.json as backup
+fs.writeFileSync(CONFIG.outputFile, JSON.stringify(output, null, 2));
 
   console.log("\n================================================");
   console.log(`  ✅ COMPLETE`);
