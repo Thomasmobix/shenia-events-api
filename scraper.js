@@ -228,9 +228,15 @@ function extractAddress(html, url) {
 // ─────────────────────────────────────────────
 // UK LOCATION FILTER
 // ─────────────────────────────────────────────
-function isUKEvent(title, description, url) {
+function isUKEvent(title, description, url, start_date) {
   // Always include Eventbrite UK and Luma events
   if (url.includes("eventbrite.co.uk") || url.includes("lu.ma")) return true;
+
+  // Reject events with US/Canada timezones
+  if (start_date) {
+    // US timezones: -04:00, -05:00, -06:00, -07:00, -08:00
+    if (start_date.match(/-0[4-8]:00$/)) return false;
+  }
 
   const text = (title + " " + description).toLowerCase();
   return UK_CITIES.some(city => text.includes(city));
@@ -386,7 +392,7 @@ async function scrapeMeetup() {
 
         // Strict UK filter — skip if no UK location detected
         if (!details.title) continue;
-        if (!isUKEvent(details.title, details.description, eventUrl)) {
+        if (!isUKEvent(details.title, details.description, eventUrl, details.start_date)) {
           console.log(`  ⚠️  SKIPPED (not UK): ${details.title.substring(0, 55)}`);
           continue;
         }
