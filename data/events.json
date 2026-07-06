@@ -2,41 +2,6 @@
   "events": [
     {
       "id": 1,
-      "name": "So You Want to Start a Substack?",
-      "description": "A practical workshop for curious creatives who want to start a Substack and build a home for their ideas without creator-economy cringe.",
-      "date_event_start": "2026-07-26T16:00:00+01:00",
-      "date_event_end": "2026-07-26T18:30:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187602545%252F1411307326943%252F1%252Foriginal.20260624-230558%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.926%26fp-y%3D0.879%26s%3Dee3cdb1732b58488d98bc1356864ac8e&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187602545%252F1411307326943%252F1%252Foriginal.20260624-230558%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.926%26fp-y%3D0.879%26s%3Dee3cdb1732b58488d98bc1356864ac8e&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/so-you-want-to-start-a-substack-tickets-1992527089161",
-      "event_tags": "technology,networking",
-      "active": true,
-      "featured": true,
-      "address": {
-        "id": 1,
-        "lat": null,
-        "lng": null,
-        "first_line": "",
-        "town_city": "London",
-        "county": "Greater London",
-        "postcode_zip": ""
-      },
-      "event_categories": [
-        {
-          "id": 1,
-          "category_name": "Technology",
-          "category_colour": "#20CDDB",
-          "category_desciption": "Tech events and conferences",
-          "active": true
-        }
-      ],
-      "events_event_categories_ms": [],
-      "social_shares": [],
-      "users": [],
-      "users_events_ms": []
-    },
-    {
-      "id": 2,
       "name": "Tech Connected Business Networking - Launch Event",
       "description": "Create meaningful business connections, spark new ideas, and explore how technology is helping organisations",
       "date_event_start": "2026-07-08T16:00:00+01:00",
@@ -48,7 +13,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 2,
+        "id": 1,
         "lat": null,
         "lng": null,
         "first_line": "Fleming Way, Crawley, RH10 9QL",
@@ -71,7 +36,7 @@
       "users_events_ms": []
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Women in Tech: Taking the Jargon out of Technology",
       "description": "A session focused on clarity, leadership and making technology accessible to everyone.",
       "date_event_start": "2026-07-07T09:30:00+01:00",
@@ -83,7 +48,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 3,
+        "id": 2,
         "lat": null,
         "lng": null,
         "first_line": "Portwall Lane, Redcliffe, BS1 6NB",
@@ -106,7 +71,7 @@
       "users_events_ms": []
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Climate Tech Time",
       "description": "Bringing together innovators, investors and enthusiasts",
       "date_event_start": "2026-07-29T18:00:00+01:00",
@@ -118,13 +83,48 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 4,
+        "id": 3,
         "lat": null,
         "lng": null,
         "first_line": "6 Langley Street, London, WC2H 9JA",
         "town_city": "London",
         "county": "Greater London",
         "postcode_zip": "WC2H 9JA"
+      },
+      "event_categories": [
+        {
+          "id": 1,
+          "category_name": "Technology",
+          "category_colour": "#20CDDB",
+          "category_desciption": "Tech events and conferences",
+          "active": true
+        }
+      ],
+      "events_event_categories_ms": [],
+      "social_shares": [],
+      "users": [],
+      "users_events_ms": []
+    },
+    {
+      "id": 4,
+      "name": "Tech Startups, Investors, Innovators Networking Event & Elevator Pitch",
+      "description": "Tech Startups & Innovators Event: Connect with like-minded professionals, investors, and tech leaders for collaboration and opportunities.",
+      "date_event_start": "2026-07-07T19:00:00+01:00",
+      "date_event_end": "2026-07-07T22:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1173533320%252F1598191844883%252F1%252Foriginal.20251226-131258%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D96809cdd16a1af4e797b7ae23c27b6b4&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1173533320%252F1598191844883%252F1%252Foriginal.20251226-131258%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D96809cdd16a1af4e797b7ae23c27b6b4&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/tech-startups-investors-innovators-networking-event-elevator-pitch-tickets-1990800748630",
+      "event_tags": "tech,startup,networking,investors",
+      "active": true,
+      "featured": true,
+      "address": {
+        "id": 4,
+        "lat": null,
+        "lng": null,
+        "first_line": "The Anthologist, 58 Gresham Street, London, EC2V 7BB",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": "EC2V 7BB"
       },
       "event_categories": [
         {
@@ -177,41 +177,6 @@
     },
     {
       "id": 6,
-      "name": "Tech Startups, Investors, Innovators Networking Event & Elevator Pitch",
-      "description": "Tech Startups & Innovators Event: Connect with like-minded professionals, investors, and tech leaders for collaboration and opportunities.",
-      "date_event_start": "2026-07-07T19:00:00+01:00",
-      "date_event_end": "2026-07-07T22:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1173533320%252F1598191844883%252F1%252Foriginal.20251226-131258%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D96809cdd16a1af4e797b7ae23c27b6b4&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1173533320%252F1598191844883%252F1%252Foriginal.20251226-131258%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D96809cdd16a1af4e797b7ae23c27b6b4&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/tech-startups-investors-innovators-networking-event-elevator-pitch-tickets-1990800748630",
-      "event_tags": "tech,startup,networking,investors",
-      "active": true,
-      "featured": true,
-      "address": {
-        "id": 6,
-        "lat": null,
-        "lng": null,
-        "first_line": "The Anthologist, 58 Gresham Street, London, EC2V 7BB",
-        "town_city": "London",
-        "county": "Greater London",
-        "postcode_zip": "EC2V 7BB"
-      },
-      "event_categories": [
-        {
-          "id": 1,
-          "category_name": "Technology",
-          "category_colour": "#20CDDB",
-          "category_desciption": "Tech events and conferences",
-          "active": true
-        }
-      ],
-      "events_event_categories_ms": [],
-      "social_shares": [],
-      "users": [],
-      "users_events_ms": []
-    },
-    {
-      "id": 7,
       "name": "Women in Tech Hampshire - See It, Be It: Female Leaders in Tech",
       "description": "Explore how visible female leaders in tech are shaping careers, building confidence and showing there’s a place for everyone in the industry",
       "date_event_start": "2026-07-08T17:30:00+01:00",
@@ -223,7 +188,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 7,
+        "id": 6,
         "lat": null,
         "lng": null,
         "first_line": "3 Venture Road, Chilworth, Southampton, SO16 7NP",
@@ -246,7 +211,7 @@
       "users_events_ms": []
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Trends in Defence Tech",
       "description": "WiTT's  September meeting will focus on technology trends in the defence sector",
       "date_event_start": "2026-09-09T18:00:00+01:00",
@@ -258,7 +223,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 8,
+        "id": 7,
         "lat": null,
         "lng": null,
         "first_line": "12 New Fetter Lane, London, EC4A 1JP",
@@ -281,7 +246,7 @@
       "users_events_ms": []
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Tech Startups Networking Event: Founders, CTOs & Technical Partners",
       "description": "Connect with business founders, CTOs, and technical partners to build strong startup teams, explore collaborations, and scale your venture.",
       "date_event_start": "2026-07-07T19:00:00+01:00",
@@ -293,13 +258,48 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 9,
+        "id": 8,
         "lat": null,
         "lng": null,
         "first_line": "The Anthologist, 58 Gresham Street, London, EC2V 7BB",
         "town_city": "London",
         "county": "Greater London",
         "postcode_zip": "EC2V 7BB"
+      },
+      "event_categories": [
+        {
+          "id": 1,
+          "category_name": "Technology",
+          "category_colour": "#20CDDB",
+          "category_desciption": "Tech events and conferences",
+          "active": true
+        }
+      ],
+      "events_event_categories_ms": [],
+      "social_shares": [],
+      "users": [],
+      "users_events_ms": []
+    },
+    {
+      "id": 9,
+      "name": "Raising female leaders in tech",
+      "description": "Shaping the Future: Women Leading in Tech",
+      "date_event_start": "2026-07-17T17:45:00+01:00",
+      "date_event_end": "2026-07-17T21:30:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187205524%252F1228270525793%252F1%252Foriginal.20260618-154900%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd4c92bff7b98d0d11b7b54fbe9d64e35&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187205524%252F1228270525793%252F1%252Foriginal.20260618-154900%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd4c92bff7b98d0d11b7b54fbe9d64e35&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/raising-female-leaders-in-tech-tickets-1991843684078",
+      "event_tags": "tech,AI",
+      "active": true,
+      "featured": true,
+      "address": {
+        "id": 9,
+        "lat": null,
+        "lng": null,
+        "first_line": "1 Embankment Place, London, WC2N 6RH",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": "WC2N 6RH"
       },
       "event_categories": [
         {
@@ -352,24 +352,24 @@
     },
     {
       "id": 11,
-      "name": "Raising female leaders in tech",
-      "description": "Shaping the Future: Women Leading in Tech",
-      "date_event_start": "2026-07-17T17:45:00+01:00",
-      "date_event_end": "2026-07-17T21:30:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187205524%252F1228270525793%252F1%252Foriginal.20260618-154900%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd4c92bff7b98d0d11b7b54fbe9d64e35&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187205524%252F1228270525793%252F1%252Foriginal.20260618-154900%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd4c92bff7b98d0d11b7b54fbe9d64e35&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/raising-female-leaders-in-tech-tickets-1991843684078",
-      "event_tags": "tech,AI",
+      "name": "Women in Tech, Fintech, AI, Startups, Social Networking Event",
+      "description": "Join Women in Tech Networking Event! Connect, inspire, and celebrate with like-minded  tech entrepreneurs and professionals in London!",
+      "date_event_start": "2026-08-10T19:00:00+01:00",
+      "date_event_end": "2026-08-10T22:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F977817293%252F1598191844883%252F1%252Foriginal.20250307-110640%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D5e25f771ab43edf285edafbeea37e36b&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F977817293%252F1598191844883%252F1%252Foriginal.20250307-110640%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D5e25f771ab43edf285edafbeea37e36b&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/women-in-tech-fintech-ai-startups-social-networking-event-tickets-1993005279441",
+      "event_tags": "tech,AI,startup,fintech,networking",
       "active": true,
       "featured": true,
       "address": {
         "id": 11,
         "lat": null,
         "lng": null,
-        "first_line": "1 Embankment Place, London, WC2N 6RH",
+        "first_line": "110 Southwark Street, London, SE1 9AN",
         "town_city": "London",
         "county": "Greater London",
-        "postcode_zip": "WC2N 6RH"
+        "postcode_zip": "SE1 9AN"
       },
       "event_categories": [
         {
@@ -422,14 +422,14 @@
     },
     {
       "id": 13,
-      "name": "Transforming Public Services with AI-Driven Testing",
-      "description": "Explore how AI-driven testing helps public sector teams confidently reduce costs, accelerate delivery, and improve digital quality at scale.",
-      "date_event_start": "2026-07-15T13:00:00+01:00",
-      "date_event_end": "2026-07-15T13:30:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187405592%252F302480212990%252F1%252Foriginal.20260622-155628%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.038%26fp-y%3D0.053%26s%3De404dc2918afbc717b6319209869ef4c&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187405592%252F302480212990%252F1%252Foriginal.20260622-155628%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.038%26fp-y%3D0.053%26s%3De404dc2918afbc717b6319209869ef4c&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/transforming-public-services-with-ai-driven-testing-tickets-1992141972266",
-      "event_tags": "AI,digital,CTO",
+      "name": "How To Get New Inbound Clients Through Speaking in 90 Days: Free & Live",
+      "description": "Go from invisible to in-demand, without a big audience, paid ads, or waiting until you feel ready (before another year passes you by)",
+      "date_event_start": "2026-07-16T16:00:00+01:00",
+      "date_event_end": "2026-07-16T16:45:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188154114%252F160209724364%252F1%252Foriginal.20260703-132026%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Deef4f7760818f928d3eda6a333e2ec18&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188154114%252F160209724364%252F1%252Foriginal.20260703-132026%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Deef4f7760818f928d3eda6a333e2ec18&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/how-to-get-new-inbound-clients-through-speaking-in-90-days-free-live-tickets-1993138296298",
+      "event_tags": "AI",
       "active": true,
       "featured": true,
       "address": {
@@ -457,6 +457,76 @@
     },
     {
       "id": 14,
+      "name": "Surf the AI Tsunami",
+      "description": "Get ready to increase your business value in just 6 months to the level or better than an good MBA with what you know right now",
+      "date_event_start": "2026-07-09T20:00:00+01:00",
+      "date_event_end": "2026-07-09T21:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185309826%252F132890682398%252F1%252Foriginal.20260524-123346%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D73dc40f6bdbb7c1c6958d6d62640c484&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185309826%252F132890682398%252F1%252Foriginal.20260524-123346%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D73dc40f6bdbb7c1c6958d6d62640c484&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/surf-the-ai-tsunami-tickets-1992909151921",
+      "event_tags": "AI",
+      "active": true,
+      "featured": true,
+      "address": {
+        "id": 14,
+        "lat": null,
+        "lng": null,
+        "first_line": "",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": ""
+      },
+      "event_categories": [
+        {
+          "id": 1,
+          "category_name": "Technology",
+          "category_colour": "#20CDDB",
+          "category_desciption": "Tech events and conferences",
+          "active": true
+        }
+      ],
+      "events_event_categories_ms": [],
+      "social_shares": [],
+      "users": [],
+      "users_events_ms": []
+    },
+    {
+      "id": 15,
+      "name": "Transforming Public Services with AI-Driven Testing",
+      "description": "Explore how AI-driven testing helps public sector teams confidently reduce costs, accelerate delivery, and improve digital quality at scale.",
+      "date_event_start": "2026-07-15T13:00:00+01:00",
+      "date_event_end": "2026-07-15T13:30:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187405592%252F302480212990%252F1%252Foriginal.20260622-155628%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.038%26fp-y%3D0.053%26s%3De404dc2918afbc717b6319209869ef4c&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187405592%252F302480212990%252F1%252Foriginal.20260622-155628%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.038%26fp-y%3D0.053%26s%3De404dc2918afbc717b6319209869ef4c&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/transforming-public-services-with-ai-driven-testing-tickets-1992141972266",
+      "event_tags": "AI,digital,CTO",
+      "active": true,
+      "featured": true,
+      "address": {
+        "id": 15,
+        "lat": null,
+        "lng": null,
+        "first_line": "",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": ""
+      },
+      "event_categories": [
+        {
+          "id": 1,
+          "category_name": "Technology",
+          "category_colour": "#20CDDB",
+          "category_desciption": "Tech events and conferences",
+          "active": true
+        }
+      ],
+      "events_event_categories_ms": [],
+      "social_shares": [],
+      "users": [],
+      "users_events_ms": []
+    },
+    {
+      "id": 16,
       "name": "AI in the Creative Industry",
       "description": "Our next event is here! AI in the Creative Industries is taking place at Fuel Studios in Norwich on 8th July, 5:30 – 7pm.",
       "date_event_start": "2026-07-08T17:30:00+01:00",
@@ -468,7 +538,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 14,
+        "id": 16,
         "lat": null,
         "lng": null,
         "first_line": "Pottergate, Norwich, NR2 1DX",
@@ -491,7 +561,7 @@
       "users_events_ms": []
     },
     {
-      "id": 15,
+      "id": 17,
       "name": "What Should Humanity Want From AI?",
       "description": "People, Technology, and the Future of Intelligence, with Mustafa Suleyman, Alain de Botton and Naomi Alderman",
       "date_event_start": "2026-07-15T19:00:00+01:00",
@@ -503,7 +573,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 15,
+        "id": 17,
         "lat": null,
         "lng": null,
         "first_line": "1 Kensington Gore, Kensington, London, SW7 2AR",
@@ -526,42 +596,7 @@
       "users_events_ms": []
     },
     {
-      "id": 16,
-      "name": "Ai and Me Book Launch",
-      "description": "Ai and Me - One Woman's Journey to Manage her Mental Health using AI book launch",
-      "date_event_start": "2026-07-23T10:00:00+01:00",
-      "date_event_end": "2026-07-23T12:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181759740%252F299610362683%252F1%252Foriginal.20260409-063459%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dacf8e94e631f54099e2268628addf15e&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181759740%252F299610362683%252F1%252Foriginal.20260409-063459%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dacf8e94e631f54099e2268628addf15e&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/ai-and-me-book-launch-tickets-1987036156634",
-      "event_tags": "AI",
-      "active": true,
-      "featured": true,
-      "address": {
-        "id": 16,
-        "lat": null,
-        "lng": null,
-        "first_line": "The Green, Cookham, SL6 9NZ",
-        "town_city": "Cookham",
-        "county": "",
-        "postcode_zip": "SL6 9NZ"
-      },
-      "event_categories": [
-        {
-          "id": 1,
-          "category_name": "Technology",
-          "category_colour": "#20CDDB",
-          "category_desciption": "Tech events and conferences",
-          "active": true
-        }
-      ],
-      "events_event_categories_ms": [],
-      "social_shares": [],
-      "users": [],
-      "users_events_ms": []
-    },
-    {
-      "id": 17,
+      "id": 18,
       "name": "Safe Enough? Building Trust in AI for Mental Health",
       "description": "Q3 '26 Meet Up (MHIN #14) of the Mental Health Innovation Network.  Exploring AI safety and accountability in mental health.",
       "date_event_start": "2026-07-10T09:30:00+01:00",
@@ -573,7 +608,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 17,
+        "id": 18,
         "lat": null,
         "lng": null,
         "first_line": "76 Portland Place, London, W1B 1NT",
@@ -596,7 +631,7 @@
       "users_events_ms": []
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "AI in Film and Creative Media",
       "description": "Join us to find out more about the topic.",
       "date_event_start": "2026-07-16T19:00:00+01:00",
@@ -608,7 +643,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 18,
+        "id": 19,
         "lat": null,
         "lng": null,
         "first_line": "Station Approach, Reading, RG1 1LY",
@@ -631,25 +666,25 @@
       "users_events_ms": []
     },
     {
-      "id": 19,
-      "name": "AI for Startups: Simple Automation & Content Creation",
-      "description": "A hands-on introduction to using AI to create content faster and automate repetitive marketing tasks.",
-      "date_event_start": "2026-07-22T15:00:00+01:00",
-      "date_event_end": "2026-07-22T17:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183437092%252F325596332007%252F1%252Foriginal.20260430-145934%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1e8d319cb2734508b01f5f8fdb3977bb&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183437092%252F325596332007%252F1%252Foriginal.20260430-145934%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1e8d319cb2734508b01f5f8fdb3977bb&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/ai-for-startups-simple-automation-content-creation-tickets-1988557075744",
-      "event_tags": "AI,startup",
+      "id": 20,
+      "name": "London AI & Fintech Networking for Innovators",
+      "description": "Meet AI professionals, fintech investors, and tech innovators at London’s leading AI networking event. Build real connections at Hay Hill.",
+      "date_event_start": "2026-07-20T17:00:00+01:00",
+      "date_event_end": "2026-07-20T21:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182408260%252F56281031621%252F1%252Foriginal.20260417-142609%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.544%26fp-y%3D0.592%26s%3D240335028871e9403f886329be147f02&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182408260%252F56281031621%252F1%252Foriginal.20260417-142609%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.544%26fp-y%3D0.592%26s%3D240335028871e9403f886329be147f02&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/london-ai-fintech-networking-for-innovators-tickets-1991271324134",
+      "event_tags": "tech,AI,fintech,networking,investors",
       "active": true,
       "featured": true,
       "address": {
-        "id": 19,
+        "id": 20,
         "lat": null,
         "lng": null,
-        "first_line": "1 Tiverton Street, London, SE1 6NT",
+        "first_line": "12 Hay Hill, London, W1J 8NR",
         "town_city": "London",
         "county": "Greater London",
-        "postcode_zip": "SE1 6NT"
+        "postcode_zip": "W1J 8NR"
       },
       "event_categories": [
         {
@@ -666,7 +701,7 @@
       "users_events_ms": []
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "AI - Reshaping our World and the Future of Finance",
       "description": "Join us for the South West England & South Wales Area Annual Flagship Event, featuring Adam Rutherford, scientist, writer, broadcaster.",
       "date_event_start": "2026-11-24T16:30:00Z",
@@ -678,7 +713,7 @@
       "active": true,
       "featured": true,
       "address": {
-        "id": 20,
+        "id": 21,
         "lat": null,
         "lng": null,
         "first_line": "Hayes Way, Patchway, BS34 5BZ",
@@ -701,60 +736,25 @@
       "users_events_ms": []
     },
     {
-      "id": 21,
-      "name": "Sheffield AI: Friends With AI",
-      "description": "We are back at Hideaway in July with two great speakers",
-      "date_event_start": "2026-07-14T18:00:00+01:00",
-      "date_event_end": "2026-07-14T21:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184953438%252F263004871445%252F1%252Foriginal.20260519-154445%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D05459b6da6391ae5b522cb93ff732081&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184953438%252F263004871445%252F1%252Foriginal.20260519-154445%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D05459b6da6391ae5b522cb93ff732081&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/sheffield-ai-friends-with-ai-tickets-1989918370413",
-      "event_tags": "AI",
-      "active": true,
-      "featured": true,
-      "address": {
-        "id": 21,
-        "lat": null,
-        "lng": null,
-        "first_line": "61 Eyre Ln, Sheffield, S1 3GF",
-        "town_city": "Sheffield",
-        "county": "South Yorkshire",
-        "postcode_zip": "S1 3GF"
-      },
-      "event_categories": [
-        {
-          "id": 1,
-          "category_name": "Technology",
-          "category_colour": "#20CDDB",
-          "category_desciption": "Tech events and conferences",
-          "active": true
-        }
-      ],
-      "events_event_categories_ms": [],
-      "social_shares": [],
-      "users": [],
-      "users_events_ms": []
-    },
-    {
       "id": 22,
-      "name": "AI That Actually Works",
-      "description": "Live demos, real use cases, one to take away.",
-      "date_event_start": "2026-07-01T09:30:00+01:00",
-      "date_event_end": "2026-07-01T12:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185139636%252F2892591159411%252F1%252Foriginal.20260521-151605%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D8f01765f77bcf23d80d40bf0c0372eb1&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185139636%252F2892591159411%252F1%252Foriginal.20260521-151605%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D8f01765f77bcf23d80d40bf0c0372eb1&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/ai-that-actually-works-tickets-1989907156873",
-      "event_tags": "AI",
+      "name": "AI for Startups: Simple Automation & Content Creation",
+      "description": "A hands-on introduction to using AI to create content faster and automate repetitive marketing tasks.",
+      "date_event_start": "2026-07-22T15:00:00+01:00",
+      "date_event_end": "2026-07-22T17:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183437092%252F325596332007%252F1%252Foriginal.20260430-145934%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1e8d319cb2734508b01f5f8fdb3977bb&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183437092%252F325596332007%252F1%252Foriginal.20260430-145934%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1e8d319cb2734508b01f5f8fdb3977bb&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/ai-for-startups-simple-automation-content-creation-tickets-1988557075744",
+      "event_tags": "AI,startup",
       "active": true,
       "featured": true,
       "address": {
         "id": 22,
         "lat": null,
         "lng": null,
-        "first_line": "New York Way, Rotherham, S60 1FJ",
-        "town_city": "Rotherham",
-        "county": "",
-        "postcode_zip": "S60 1FJ"
+        "first_line": "1 Tiverton Street, London, SE1 6NT",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": "SE1 6NT"
       },
       "event_categories": [
         {
@@ -772,13 +772,13 @@
     },
     {
       "id": 23,
-      "name": "Demystifying Agentic AI & AI Agents",
-      "description": "Join us for this one day workshop and unlock the potential of AI agents and retrieval-augmented generation (RAG) in chemical science.",
-      "date_event_start": "2026-09-23T09:00:00+01:00",
-      "date_event_end": "2026-09-23T17:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185678793%252F2503541170421%252F1%252Foriginal.20260529-062552%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dcfdd5da00b3dae076130ef6408588745&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185678793%252F2503541170421%252F1%252Foriginal.20260529-062552%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dcfdd5da00b3dae076130ef6408588745&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/demystifying-agentic-ai-ai-agents-tickets-1990621667995",
+      "name": "Agentic AI Workshop",
+      "description": "Getting hands-on with AI Agents and Workflows",
+      "date_event_start": "2026-07-16T09:30:00+01:00",
+      "date_event_end": "2026-07-16T11:30:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187382939%252F504484597271%252F1%252Foriginal.20260622-095136%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1d025f8668f1a669b4ccd4832afe6740&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187382939%252F504484597271%252F1%252Foriginal.20260622-095136%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1d025f8668f1a669b4ccd4832afe6740&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/agentic-ai-workshop-tickets-1992343970448",
       "event_tags": "AI",
       "active": true,
       "featured": true,
@@ -786,10 +786,10 @@
         "id": 23,
         "lat": null,
         "lng": null,
-        "first_line": "Department of Chemistry, Woodhouse Lane, Leeds, LS2 9JT",
-        "town_city": "Leeds",
-        "county": "West Yorkshire",
-        "postcode_zip": "LS2 9JT"
+        "first_line": "180 Borough High Street, London, SE1 1LB",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": "SE1 1LB"
       },
       "event_categories": [
         {
@@ -807,24 +807,24 @@
     },
     {
       "id": 24,
-      "name": "AI in Real Life. Safety, Work, Learning and Local Solutions",
-      "description": "A practical day about using AI safely and usefully at work, at home and in our community. No technical background needed, no laptop required",
-      "date_event_start": "2026-07-07T10:00:00+01:00",
-      "date_event_end": "2026-07-07T14:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181097046%252F2696733919021%252F1%252Foriginal.20260331-142841%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.019%26fp-y%3D0.49%26s%3D684632c5a0099ec6d4518341de7a23b8&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181097046%252F2696733919021%252F1%252Foriginal.20260331-142841%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.019%26fp-y%3D0.49%26s%3D684632c5a0099ec6d4518341de7a23b8&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/ai-in-real-life-safety-work-learning-and-local-solutions-tickets-1986331292366",
-      "event_tags": "tech,AI",
+      "name": "Sheffield AI: Friends With AI",
+      "description": "We are back at Hideaway in July with two great speakers",
+      "date_event_start": "2026-07-14T18:00:00+01:00",
+      "date_event_end": "2026-07-14T21:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184953438%252F263004871445%252F1%252Foriginal.20260519-154445%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D05459b6da6391ae5b522cb93ff732081&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184953438%252F263004871445%252F1%252Foriginal.20260519-154445%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D05459b6da6391ae5b522cb93ff732081&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/sheffield-ai-friends-with-ai-tickets-1989918370413",
+      "event_tags": "AI",
       "active": true,
       "featured": true,
       "address": {
         "id": 24,
         "lat": null,
         "lng": null,
-        "first_line": "Trenchard Way, Taunton, TA1 1FH",
-        "town_city": "Taunton",
-        "county": "",
-        "postcode_zip": "TA1 1FH"
+        "first_line": "61 Eyre Ln, Sheffield, S1 3GF",
+        "town_city": "Sheffield",
+        "county": "South Yorkshire",
+        "postcode_zip": "S1 3GF"
       },
       "event_categories": [
         {
@@ -877,13 +877,13 @@
     },
     {
       "id": 26,
-      "name": "TechFirst -  Frontier Technologies Co-Design Workshop",
-      "description": "Take your seat at the table. Join frontier technology leaders on 1 July and help shape the next generation of tech talent.",
-      "date_event_start": "2026-07-01T13:00:00+01:00",
-      "date_event_end": "2026-07-01T16:30:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187017211%252F3004741152211%252F1%252Foriginal.20260616-113456%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.054%26fp-y%3D0.386%26s%3D54feb163f65e94e1494b1dd8e0f8515c&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187017211%252F3004741152211%252F1%252Foriginal.20260616-113456%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.054%26fp-y%3D0.386%26s%3D54feb163f65e94e1494b1dd8e0f8515c&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/techfirst-frontier-technologies-co-design-workshop-tickets-1991560781910",
+      "name": "Communication and Technology Through Time for Home Education 5-10 year olds",
+      "description": "Join us to explore how people chatted and shared cool tech from the past to now—fun for 5-10 year olds!",
+      "date_event_start": "2026-07-20T10:30:00+01:00",
+      "date_event_end": "2026-07-20T12:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180932045%252F2931353801741%252F1%252Foriginal.20260329-122627%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3De6bbafdcc985f7bb6dfd81ba3f900eb7&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180932045%252F2931353801741%252F1%252Foriginal.20260329-122627%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3De6bbafdcc985f7bb6dfd81ba3f900eb7&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/communication-and-technology-through-time-for-home-education-5-10-year-olds-tickets-1986153171602",
       "event_tags": "tech",
       "active": true,
       "featured": true,
@@ -891,10 +891,10 @@
         "id": 26,
         "lat": null,
         "lng": null,
-        "first_line": "Curzon Street, Birmingham, B4 7EJ",
-        "town_city": "Birmingham",
-        "county": "West Midlands",
-        "postcode_zip": "B4 7EJ"
+        "first_line": "1 Pike Street, Liskeard, PL14 3JE",
+        "town_city": "Liskeard",
+        "county": "",
+        "postcode_zip": "PL14 3JE"
       },
       "event_categories": [
         {
@@ -912,24 +912,24 @@
     },
     {
       "id": 27,
-      "name": "Digital Technology for Business",
-      "description": "Discover how digital tools and emerging technology can support and grow your business",
-      "date_event_start": "2026-07-22T14:00:00+01:00",
-      "date_event_end": "2026-07-22T16:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187195505%252F148777406428%252F1%252Foriginal.20260618-135122%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D17c53f208defaad4b8c27d2e727e5629&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187195505%252F148777406428%252F1%252Foriginal.20260618-135122%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D17c53f208defaad4b8c27d2e727e5629&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/digital-technology-for-business-tickets-1992197924621",
-      "event_tags": "tech,digital",
+      "name": "Women’s Health Technology Summit 2026",
+      "description": "Join us as we bring together leaders from healthcare, research, technology, investment, academia, policy, and industry.",
+      "date_event_start": "2026-09-16T12:00:00+01:00",
+      "date_event_end": "2026-09-16T19:00:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185972969%252F313785683164%252F1%252Foriginal.20260602-154838%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D7778e892625e50482cd50bd71d31a3ee&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185972969%252F313785683164%252F1%252Foriginal.20260602-154838%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D7778e892625e50482cd50bd71d31a3ee&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/womens-health-technology-summit-2026-tickets-1990879458052",
+      "event_tags": "tech",
       "active": true,
       "featured": true,
       "address": {
         "id": 27,
         "lat": null,
         "lng": null,
-        "first_line": "Balloo Road, Bangor, BT19 7PD",
-        "town_city": "Bangor",
-        "county": "",
-        "postcode_zip": "BT19 7PD"
+        "first_line": "Brunswick Street, Manchester, M13 9PS",
+        "town_city": "Manchester",
+        "county": "Greater Manchester",
+        "postcode_zip": "M13 9PS"
       },
       "event_categories": [
         {
@@ -947,13 +947,13 @@
     },
     {
       "id": 28,
-      "name": "Communication and Technology Through Time for Home Education 5-10 year olds",
-      "description": "Join us to explore how people chatted and shared cool tech from the past to now—fun for 5-10 year olds!",
-      "date_event_start": "2026-07-20T10:30:00+01:00",
-      "date_event_end": "2026-07-20T12:00:00+01:00",
+      "name": "Communication and Technology Through Time for Home Education 11-16year olds",
+      "description": "Join us to explore how people chatted and shared cool tech from the past to now—fun for 11-16 year olds!",
+      "date_event_start": "2026-07-20T13:30:00+01:00",
+      "date_event_end": "2026-07-20T15:00:00+01:00",
       "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180932045%252F2931353801741%252F1%252Foriginal.20260329-122627%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3De6bbafdcc985f7bb6dfd81ba3f900eb7&amp;w=1880&amp;q=75",
       "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180932045%252F2931353801741%252F1%252Foriginal.20260329-122627%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3De6bbafdcc985f7bb6dfd81ba3f900eb7&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/communication-and-technology-through-time-for-home-education-5-10-year-olds-tickets-1986153171602",
+      "event_url": "https://www.eventbrite.co.uk/e/communication-and-technology-through-time-for-home-education-11-16year-olds-tickets-1986153269896",
       "event_tags": "tech",
       "active": true,
       "featured": true,
@@ -982,24 +982,24 @@
     },
     {
       "id": 29,
-      "name": "Women’s Health Technology Summit 2026",
-      "description": "Join us as we bring together leaders from healthcare, research, technology, investment, academia, policy, and industry.",
-      "date_event_start": "2026-09-16T12:00:00+01:00",
-      "date_event_end": "2026-09-16T19:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185972969%252F313785683164%252F1%252Foriginal.20260602-154838%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D7778e892625e50482cd50bd71d31a3ee&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185972969%252F313785683164%252F1%252Foriginal.20260602-154838%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D7778e892625e50482cd50bd71d31a3ee&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/womens-health-technology-summit-2026-tickets-1990879458052",
-      "event_tags": "tech",
+      "name": "Medtech Innovation: Shaping the Future of Digital Health in London",
+      "description": "Dive into the coolest medtech breakthroughs and see how health innovation is changing the game for the future.",
+      "date_event_start": "2026-07-15T18:10:00+01:00",
+      "date_event_end": "2026-07-15T21:10:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1186859275%252F2999787131123%252F1%252Foriginal.20260614-082148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dce2d46547b5d1b194c89f2895587beba&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1186859275%252F2999787131123%252F1%252Foriginal.20260614-082148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dce2d46547b5d1b194c89f2895587beba&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/medtech-innovation-shaping-the-future-of-digital-health-in-london-tickets-1991852454310",
+      "event_tags": "tech,medtech,digital,innovation",
       "active": true,
       "featured": true,
       "address": {
         "id": 29,
         "lat": null,
         "lng": null,
-        "first_line": "Brunswick Street, Manchester, M13 9PS",
-        "town_city": "Manchester",
-        "county": "Greater Manchester",
-        "postcode_zip": "M13 9PS"
+        "first_line": "1 Ropemaker Street, London, EC2Y 9HT",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": "EC2Y 9HT"
       },
       "event_categories": [
         {
@@ -1017,13 +1017,13 @@
     },
     {
       "id": 30,
-      "name": "Communication and Technology Through Time for Home Education 11-16year olds",
-      "description": "Join us to explore how people chatted and shared cool tech from the past to now—fun for 11-16 year olds!",
-      "date_event_start": "2026-07-20T13:30:00+01:00",
-      "date_event_end": "2026-07-20T15:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180932045%252F2931353801741%252F1%252Foriginal.20260329-122627%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3De6bbafdcc985f7bb6dfd81ba3f900eb7&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180932045%252F2931353801741%252F1%252Foriginal.20260329-122627%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3De6bbafdcc985f7bb6dfd81ba3f900eb7&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/communication-and-technology-through-time-for-home-education-11-16year-olds-tickets-1986153269896",
+      "name": "Innovating technologies for neuromorphic computing",
+      "description": "23 - 25 November 2026",
+      "date_event_start": "2026-11-23T09:00:00Z",
+      "date_event_end": "2026-11-25T16:00:00Z",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184605661%252F320350715943%252F1%252Foriginal.20260514-153749%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Df7729c67636732d86f34c7f97bc7cf17&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184605661%252F320350715943%252F1%252Foriginal.20260514-153749%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Df7729c67636732d86f34c7f97bc7cf17&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/innovating-technologies-for-neuromorphic-computing-tickets-1987383069259",
       "event_tags": "tech",
       "active": true,
       "featured": true,
@@ -1031,10 +1031,10 @@
         "id": 30,
         "lat": null,
         "lng": null,
-        "first_line": "1 Pike Street, Liskeard, PL14 3JE",
-        "town_city": "Liskeard",
-        "county": "",
-        "postcode_zip": "PL14 3JE"
+        "first_line": "6-9 Carlton House Terrace, London, SW1Y 5AG",
+        "town_city": "London",
+        "county": "Greater London",
+        "postcode_zip": "SW1Y 5AG"
       },
       "event_categories": [
         {
@@ -1052,24 +1052,24 @@
     },
     {
       "id": 31,
-      "name": "Emerging Technologies and Future Challenges",
-      "description": "Emerging Technologies and Future Challenges: exploring the Impact of Digital Transformation on Society, Institutions and Markets",
-      "date_event_start": "2026-07-28T10:00:00+01:00",
-      "date_event_end": "2026-07-28T18:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187642590%252F39731799270%252F1%252Foriginal.20260625-144022%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Df2bea7a9bb2f1286b4594bf2663ff395&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187642590%252F39731799270%252F1%252Foriginal.20260625-144022%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Df2bea7a9bb2f1286b4594bf2663ff395&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/emerging-technologies-and-future-challenges-tickets-1992571671508",
-      "event_tags": "tech,digital",
+      "name": "ClimateTech Startup Creators, Investors & Technical Partners",
+      "description": "Meet the movers and shakers behind the next big climate tech breakthroughs and team up with investors and tech pros.",
+      "date_event_start": "2026-07-06T18:22:00+01:00",
+      "date_event_end": "2026-07-06T21:22:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187788205%252F2999787131123%252F1%252Foriginal.20260628-104433%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D48890e4bb90588bf9b1b8fc0e79ab485&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1187788205%252F2999787131123%252F1%252Foriginal.20260628-104433%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D48890e4bb90588bf9b1b8fc0e79ab485&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/climatetech-startup-creators-investors-technical-partners-tickets-1992714286072",
+      "event_tags": "tech,startup,investors",
       "active": true,
       "featured": true,
       "address": {
         "id": 31,
         "lat": null,
         "lng": null,
-        "first_line": "67-69 Lincoln's Inn Fields, London, WC2A 3JB",
+        "first_line": "58 Gresham Street, London, EC2V 7BB",
         "town_city": "London",
         "county": "Greater London",
-        "postcode_zip": "WC2A 3JB"
+        "postcode_zip": "EC2V 7BB"
       },
       "event_categories": [
         {
@@ -1087,14 +1087,14 @@
     },
     {
       "id": 32,
-      "name": "Medtech Innovation: Shaping the Future of Digital Health in London",
-      "description": "Dive into the coolest medtech breakthroughs and see how health innovation is changing the game for the future.",
-      "date_event_start": "2026-07-01T18:10:00+01:00",
-      "date_event_end": "2026-07-01T21:10:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1186859275%252F2999787131123%252F1%252Foriginal.20260614-082148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dce2d46547b5d1b194c89f2895587beba&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1186859275%252F2999787131123%252F1%252Foriginal.20260614-082148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dce2d46547b5d1b194c89f2895587beba&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/medtech-innovation-shaping-the-future-of-digital-health-in-london-tickets-1991852454310",
-      "event_tags": "tech,medtech,digital,innovation",
+      "name": "Emerging Technology Networking for Advisors, IT Professionals & CEO's",
+      "description": "Mix, mingle, and geek out with top advisors, IT pros, and CEOs diving into the latest tech trends.",
+      "date_event_start": "2026-07-20T18:30:00+01:00",
+      "date_event_end": "2026-07-20T21:30:00+01:00",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188200794%252F2999695587774%252F1%252Foriginal.20260704-132941%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db5a37b0a88a6a9c6d76e82d81eadab82&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188200794%252F2999695587774%252F1%252Foriginal.20260704-132941%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db5a37b0a88a6a9c6d76e82d81eadab82&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/emerging-technology-networking-for-advisors-it-professionals-ceos-tickets-1993201123215",
+      "event_tags": "tech,networking",
       "active": true,
       "featured": true,
       "address": {
@@ -1122,94 +1122,24 @@
     },
     {
       "id": 33,
-      "name": "Derbyshire Technology Showcase 2026 - FREE Attendees",
-      "description": "One day event showcasing the best in IT & Tech for businesses. Part business expo, part seminar speakers and part interactive tech demos.",
-      "date_event_start": "2026-07-01T10:00:00+01:00",
-      "date_event_end": "2026-07-01T15:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1186229981%252F2576005393921%252F1%252Foriginal.20260605-100931%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.445%26fp-y%3D0.477%26s%3D5a40dd66c2c56341a828363ffb813688&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1186229981%252F2576005393921%252F1%252Foriginal.20260605-100931%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.445%26fp-y%3D0.477%26s%3D5a40dd66c2c56341a828363ffb813688&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/derbyshire-technology-showcase-2026-free-attendees-tickets-1991183608775",
-      "event_tags": "tech",
+      "name": "Building Your First GenAI Solution",
+      "description": "GenAI is reshaping industries across the board—from creative arts to finance—unlocking new efficiencies, insights, and possibilities.",
+      "date_event_start": "2026-07-31T18:30:00+01:00",
+      "date_event_end": "",
+      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185604494%252F1561597454813%252F1%252Foriginal.20260528-111858%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Dc0d6512c3f38cf8b2f615fa543f59aec&amp;w=1880&amp;q=75",
+      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185604494%252F1561597454813%252F1%252Foriginal.20260528-111858%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Dc0d6512c3f38cf8b2f615fa543f59aec&amp;w=1880&amp;q=75",
+      "event_url": "https://www.eventbrite.co.uk/e/building-your-first-genai-solution-tickets-1990559226230",
+      "event_tags": "AI",
       "active": true,
       "featured": true,
       "address": {
         "id": 33,
         "lat": null,
         "lng": null,
-        "first_line": "Carter Lane East, South Normanton, DE55 2EH",
-        "town_city": "South Normanton",
-        "county": "",
-        "postcode_zip": "DE55 2EH"
-      },
-      "event_categories": [
-        {
-          "id": 1,
-          "category_name": "Technology",
-          "category_colour": "#20CDDB",
-          "category_desciption": "Tech events and conferences",
-          "active": true
-        }
-      ],
-      "events_event_categories_ms": [],
-      "social_shares": [],
-      "users": [],
-      "users_events_ms": []
-    },
-    {
-      "id": 34,
-      "name": "Wurth Electronics UK & Element Materials Technology @ Manchester",
-      "description": "Wurth Electronics UK combine with Element Materials Technology for a day of technical presentations and demonstrations!",
-      "date_event_start": "2026-07-01T09:00:00+01:00",
-      "date_event_end": "2026-07-01T16:00:00+01:00",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184848373%252F299615535642%252F1%252Foriginal.20260518-140855%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D0a4a55a8e22ea388d8a736faed7b4d98&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184848373%252F299615535642%252F1%252Foriginal.20260518-140855%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D0a4a55a8e22ea388d8a736faed7b4d98&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/wurth-electronics-uk-element-materials-technology-manchester-tickets-1989829531694",
-      "event_tags": "tech",
-      "active": true,
-      "featured": true,
-      "address": {
-        "id": 34,
-        "lat": null,
-        "lng": null,
-        "first_line": "8 The Vic, MediaCityUK, M50 3SP",
-        "town_city": "MediaCityUK",
-        "county": "",
-        "postcode_zip": "M50 3SP"
-      },
-      "event_categories": [
-        {
-          "id": 1,
-          "category_name": "Technology",
-          "category_colour": "#20CDDB",
-          "category_desciption": "Tech events and conferences",
-          "active": true
-        }
-      ],
-      "events_event_categories_ms": [],
-      "social_shares": [],
-      "users": [],
-      "users_events_ms": []
-    },
-    {
-      "id": 35,
-      "name": "Innovating technologies for neuromorphic computing",
-      "description": "23 - 25 November 2026",
-      "date_event_start": "2026-11-23T09:00:00Z",
-      "date_event_end": "2026-11-25T16:00:00Z",
-      "thumbnail_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184605661%252F320350715943%252F1%252Foriginal.20260514-153749%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Df7729c67636732d86f34c7f97bc7cf17&amp;w=1880&amp;q=75",
-      "header_image_url": "/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1184605661%252F320350715943%252F1%252Foriginal.20260514-153749%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Df7729c67636732d86f34c7f97bc7cf17&amp;w=1880&amp;q=75",
-      "event_url": "https://www.eventbrite.co.uk/e/innovating-technologies-for-neuromorphic-computing-tickets-1987383069259",
-      "event_tags": "tech",
-      "active": true,
-      "featured": true,
-      "address": {
-        "id": 35,
-        "lat": null,
-        "lng": null,
-        "first_line": "6-9 Carlton House Terrace, London, SW1Y 5AG",
+        "first_line": "Basement 1 - 8 Suffolk House, Whitfield Place, London, W1T 5JU",
         "town_city": "London",
         "county": "Greater London",
-        "postcode_zip": "SW1Y 5AG"
+        "postcode_zip": "W1T 5JU"
       },
       "event_categories": [
         {
@@ -1226,6 +1156,6 @@
       "users_events_ms": []
     }
   ],
-  "total": 35,
-  "generated_at": "2026-06-29T17:14:46.951Z"
+  "total": 33,
+  "generated_at": "2026-07-06T10:47:53.351Z"
 }
